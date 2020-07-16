@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.useBrowserPreview": true
+}
